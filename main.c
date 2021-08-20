@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//
 int arr2[9][9][9];
 
 int main ()
