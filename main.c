@@ -14,7 +14,7 @@ int main ()
                      {0,0,0,4,1,9,0,0,5},
                      {0,0,0,0,8,0,0,7,9}};
 
-    // in order to put the available chances
+    // in order to put the available chances in arr2
 
     int a,b;
     for (a = 0 ; a <= 6 ; a += 3)
